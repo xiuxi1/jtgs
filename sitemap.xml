@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xiuxi1.github.io/jtgs/about/index.html</loc>
+    
+    <lastmod>2023-06-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xiuxi1.github.io/jtgs/posts/643a64e7.html</loc>
     
     <lastmod>2023-04-25</lastmod>
@@ -48,15 +57,6 @@
   
   <url>
     <loc>https://xiuxi1.github.io/jtgs/posts/643aba60.html</loc>
-    
-    <lastmod>2023-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiuxi1.github.io/jtgs/about/index.html</loc>
     
     <lastmod>2023-04-15</lastmod>
     
@@ -115,21 +115,21 @@
   </url>
   
   <url>
-    <loc>https://xiuxi1.github.io/jtgs/categories/%E4%BA%8B%E6%83%85/%E6%94%BE%E6%9D%BE-%E5%85%BB%E7%94%9F/</loc>
-    <lastmod>2023-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiuxi1.github.io/jtgs/categories/%E4%BA%8B%E6%83%85/%E6%83%B3%E5%81%9A-%E4%B8%8D%E6%83%B3%E5%81%9A/</loc>
-    <lastmod>2023-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xiuxi1.github.io/jtgs/categories/%E8%AE%A1%E5%88%92/</loc>
+    <lastmod>2023-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiuxi1.github.io/jtgs/categories/%E4%BA%8B%E6%83%85/%E6%83%B3%E5%81%9A%E7%9A%84/</loc>
+    <lastmod>2023-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiuxi1.github.io/jtgs/categories/%E4%BA%8B%E6%83%85/%E6%94%BE%E6%9D%BE-%E5%85%BB%E7%94%9F/</loc>
     <lastmod>2023-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -143,14 +143,14 @@
   </url>
   
   <url>
-    <loc>https://xiuxi1.github.io/jtgs/categories/%E4%BA%8B%E6%83%85/%E4%B8%8D%E8%AF%A5%E5%81%9A/</loc>
+    <loc>https://xiuxi1.github.io/jtgs/categories/%E4%BA%8B%E6%83%85/%E6%83%B3%E5%81%9A-%E4%B8%8D%E6%83%B3%E5%81%9A/</loc>
     <lastmod>2023-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xiuxi1.github.io/jtgs/categories/%E4%BA%8B%E6%83%85/%E6%83%B3%E5%81%9A%E7%9A%84/</loc>
+    <loc>https://xiuxi1.github.io/jtgs/categories/%E4%BA%8B%E6%83%85/%E4%B8%8D%E8%AF%A5%E5%81%9A/</loc>
     <lastmod>2023-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
